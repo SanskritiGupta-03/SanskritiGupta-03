@@ -25,7 +25,7 @@
     
     🎁 
     
-    🔥 &nbsp; In short, I love interacting with people and exploring life with tech in general :)
+    🔥 In short, I love interacting with people and exploring life with tech in general :)
     
     </div>
 
