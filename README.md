@@ -4,10 +4,10 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/gupta-sanskriti/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username gupta-sanskriti" /></a>
     <a href="mailto:www.sanskriti12@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email wwww.sanskriti12@gmail.com" /></a>
+    <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif>
 </div>
 <br>
 
-<p  align="left"><img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif> ></p>
 
 <div>
     
