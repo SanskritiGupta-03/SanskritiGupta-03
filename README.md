@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanskriti Gupta</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskritigupta-03&label=Profile%20views&color=0e75b6&style=flat" alt="sanskritigupta-03" /> </p>
-<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+<br><br>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/gupta-sanskriti/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username gupta-sanskriti" /></a>
